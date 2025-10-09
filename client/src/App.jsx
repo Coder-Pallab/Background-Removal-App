@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 
 const App = () => {
   return (
-    <div className='min-h-screen bg-slate-50'>
+    <div className='min-h-screen bg-slate-100'>
       <ToastContainer position='bottom-right'/>
       <Navbar/>
       <Routes>

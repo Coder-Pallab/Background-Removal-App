@@ -7,13 +7,13 @@ const Footer = () => {
             <img width={150} src={assets.logo} alt="" />
             <p className='flex-1 border border-gray-200 pl-4 text-sm text-gray-500 max-sm:hidden'>Copyright @PallabDuarah.dev | All right reserved.</p>
             <div className='flex gap-1'>
-                <a href='#'>
+                <a href='https://www.facebook.com/PR4DYUT'>
                     <img width={40} src={assets.facebook_icon} alt="" />
                 </a>
-                <a href='#'>
+                <a href='https://x.com/pallab_speaks'>
                     <img width={40} src={assets.twitter_icon} alt="" />
                 </a>
-                <a href=''>
+                <a href='https://www.instagram.com/__about_.pallab'>
                     <img width={40} src={assets.google_plus_icon} alt="" />
                 </a>
                 
